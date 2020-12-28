@@ -52,16 +52,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Project code and databases
-test/wordpress/*
-test/mysql/*
-test/ngnix/*
-dev/wordpress/*
-dev/mysql/*
-dev/ngnix/*
-prod/wordpress/*
-prod/mysql/*
-prod/ngnix/*
-key/
-
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,vagrant
